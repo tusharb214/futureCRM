@@ -1,0 +1,7 @@
+ {
+  "baseUrl": "http://139.84.164.237",
+  "local": "http://139.84.164.237",
+  "port": "5019",
+  "localPort": "5019",
+  "prod": "yes"
+}
